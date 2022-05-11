@@ -7,7 +7,6 @@ include_directories(.)
 
 add_executable(flat
         main.cpp
-        common.hpp
         room.cpp
         room.h
         wallpaper.cpp
